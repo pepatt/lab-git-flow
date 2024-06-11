@@ -13,7 +13,12 @@ const poems = [
     author: "Ernie",
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
-  },  
+  }, 
+  {
+    author: "Ching Hang",
+    poem: "Roses are red \n Violets are red \n Everything is red",
+    image: "red_world.jpg",
+  },
   {
     author: "Tymur", 
     poem: "In coils of green, Python slithers, nature's code.",
@@ -23,7 +28,7 @@ const poems = [
     author: "Keats",
     poem: "My heart aches, and a drowsy numbness pains \n  My sense, as though of hemlock I had drunk, \n Or emptied some dull opiate to the drains \n   One minute past, and Lethe-wards had sunk:",
     image:"keats.jpeg"
-  }
+  },
 ];
 
 let displayPoems = (array) => {
