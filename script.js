@@ -17,7 +17,7 @@ const poems = [
   {
     author: "Tymur", 
     poem: "In coils of green, Python slithers, nature's code.",
-    image: "python.jpeg"
+    image: "python.jpg"
   }
 ];
 
